@@ -1,0 +1,5 @@
+# tensorflow==2.4.1
+tensorflow_addons
+gradio
+numpy
+matplotlib
